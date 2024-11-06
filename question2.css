@@ -1,0 +1,63 @@
+#headpart{
+    text-align: right;
+    background-color: rgb(108, 45, 45);
+    padding: 20px;
+    margin: 20px;
+}
+h1{
+    text-align: left;
+    text-emphasis-color: white;
+}
+#secondpart{
+    margin: 20px;
+    padding: 20px;
+    background-color: bisque;
+}
+#headpart,#secondpart{
+    margin: 0px;
+}
+
+#imagepart1{
+    /*/align-items: center;*/
+    padding-left: 300px;
+    text-align: center;
+    padding-right: 300px;
+    text-align: center;
+}
+#buttondetails{
+    background-color: rgba(0, 0, 0, 0.253);
+    border: 2px solid black;
+}
+
+#details{
+   border: 2px solid black;
+}
+#details,#buttondetails{
+   margin: 0px;   
+}
+
+#buttondetails2{
+    background-color: rgba(0, 0, 0, 0.253);
+    border: 2px solid black;
+}
+
+#contactdetails ,#buttondetails{
+margin: 0px;
+border: 2px solid black;
+}
+#imagepart2{
+    /*/align-items: center;*/
+    padding-left: 300px;
+    text-align: center;
+    padding-right: 300px;
+    text-align: center;
+}
+#footerpart{
+    background-color: rgba(0, 0, 0, 0.379);
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.304);
+}
+#footerpart,footer{
+    margin: 0px;
+}
