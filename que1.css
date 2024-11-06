@@ -1,0 +1,59 @@
+#one {
+  display: block;
+  border: 3px solid black;
+  background: radial-gradient(
+    circle,
+    rgba(0, 36, 35, 1) 0%,
+    rgba(9, 118, 121, 0.5214460784313726) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  padding: 20px;
+  margin: 20px;
+}
+#two {
+  display: block;
+  border: 3px solid black;
+
+  background: radial-gradient(
+    circle,
+    rgba(0, 36, 35, 1) 0%,
+    rgba(9, 118, 121, 0.5214460784313726) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  padding: 20px;
+  margin: 20px;
+}
+#three{
+    display: block;
+    border:2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+#four{
+    display: block;
+    border: 2px solid black;
+     padding: 20px;
+     margin: 20px;
+}
+#five{
+    display: block;
+     padding: 20px;
+     margin: 20px;
+}
+#six{
+     display: block;
+     padding: 20px;
+     margin: 20px;
+}
+#seven{
+    border: 2px solid black;
+    display: block;
+     padding: 20px;
+     margin: 20px;
+      background: radial-gradient(
+    circle,
+    rgba(0, 36, 35, 1) 0%,
+    rgba(9, 118, 121, 0.5214460784313726) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
